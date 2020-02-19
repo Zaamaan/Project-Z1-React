@@ -6,6 +6,7 @@ import Navbar from './Navbar'
 import Slider from './Slider'
 import FeaturedCard from './FeaturedCard'
 
+
 function Container() {
   return (
     <div>
