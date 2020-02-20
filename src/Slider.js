@@ -10,16 +10,16 @@ function Slider() {
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active">
-        <img src="./img/im_watching_you.jpg" class="d-block w-100" alt="..."></img>
+        <img src="./img/im_watching_you.jpg" class="d-block w-100" alt="..."/>
       </div>
       <div class="carousel-item">
-        <img src="./img/star_wars_1.jpg" class="d-block w-100" alt="..."></img>
+        <img src="./img/star_wars_1.jpg" class="d-block w-100" alt="..."/>
       </div>
       <div class="carousel-item">
-        <img src="./img/star_wars_2.jpg" class="d-block w-100" alt="..."></img>
+        <img src="./img/star_wars_2.jpg" class="d-block w-100" alt="..."/>
       </div>
       <div class="carousel-item">
-        <img src="./img/yoda.png" class="d-block w-100" alt="..."></img>
+        <img src="./img/yoda.png" class="d-block w-100" alt="..."/>
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
